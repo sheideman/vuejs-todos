@@ -5,7 +5,9 @@
   "author": "Steve Heideman <steve@mintsocial.com>",
   "private": true,
   "dependencies": {
-    "nuxt": "latest"
+    "axios": "^0.16.1",
+    "nuxt": "latest",
+    "tachyons": "^4.7.0"
   },
   "scripts": {
     "dev": "nuxt",
